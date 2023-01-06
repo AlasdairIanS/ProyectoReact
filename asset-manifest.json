@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlasdairIanS/ProyectoReact/static/css/main.bbc0a889.css",
+    "main.js": "/AlasdairIanS/ProyectoReact/static/js/main.38e3a00f.js",
+    "index.html": "/AlasdairIanS/ProyectoReact/index.html",
+    "main.bbc0a889.css.map": "/AlasdairIanS/ProyectoReact/static/css/main.bbc0a889.css.map",
+    "main.38e3a00f.js.map": "/AlasdairIanS/ProyectoReact/static/js/main.38e3a00f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc0a889.css",
+    "static/js/main.38e3a00f.js"
+  ]
+}
